@@ -1307,11 +1307,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6aff877b84a4da391263bdec6f005af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _appKey: 85460dcd
-  _bannerAdUnitId: thnfvcsog13bhn08
-  _interstitialAdUnitId: aeyqi3vqlv6o8sh9
+  _appKey: 204bdb17d
+  _bannerAdUnitId: 96lygxgehiii68l1
+  _interstitialAdUnitId: 9m87jv5oc3clr3k5
   autoLoadBanner: 1
-  bannerPosition: 2
+  bannerPosition: 1
   delayTimeShowRewardedMs: 500
   delayTimeShowInterstitialMs: 500
 --- !u!4 &1310028728
